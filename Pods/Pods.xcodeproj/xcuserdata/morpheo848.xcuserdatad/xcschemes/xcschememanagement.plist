@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AFHTTPSessionOperation.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>AFNetworkActivityLogger.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>NSOperationQueue+CompletionBlock.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MyGarden.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0509E414E5347B46D1D40EB8519DC8CA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AD92CB560CCD279E630ADE73283AC02D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B6A42933B097B4C9FE89711B2C0926F9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D16FE48CFE190D2ABDD60FC60A616426</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E79D74CF519534F8B4673D1B9967AECB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

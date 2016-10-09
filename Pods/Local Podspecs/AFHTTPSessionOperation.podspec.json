@@ -1,0 +1,26 @@
+{
+  "name": "AFHTTPSessionOperation",
+  "version": "0.1.0",
+  "license": "BSD",
+  "summary": "A `NSOperation` subclass for requests added to `AFHTTPSessionManager`",
+  "homepage": "https://github.com/damarte/AFHTTPSessionOperation",
+  "authors": {
+    "Rob Ryan": ""
+  },
+  "source": {
+    "git": "https://github.com/damarte/AFHTTPSessionOperation",
+    "tag": "0.1.0"
+  },
+  "requires_arc": true,
+  "platforms": {
+    "ios": "7.0"
+  },
+  "preserve_paths": "README.md",
+  "dependencies": {
+    "AFNetworking": [
+      "> 2"
+    ]
+  },
+  "public_header_files": "AFHTTPSessionOperation/*.h",
+  "source_files": "AFHTTPSessionOperation/*.{h,m}"
+}

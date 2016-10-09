@@ -1,0 +1,54 @@
+PODS:
+  - AFHTTPSessionOperation (0.1.0):
+    - AFNetworking (> 2)
+  - AFNetworkActivityLogger (2.0.4):
+    - AFNetworking/NSURLConnection (~> 2.0)
+    - AFNetworking/NSURLSession (~> 2.0)
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - NSOperationQueue+CompletionBlock (1.0.0)
+
+DEPENDENCIES:
+  - AFHTTPSessionOperation (from `https://github.com/damarte/AFHTTPSessionOperation`, commit `e0ab1473ef17448b786549d59e3e155597af5313`)
+  - AFNetworkActivityLogger
+  - AFNetworking
+  - NSOperationQueue+CompletionBlock (~> 1.0)
+
+EXTERNAL SOURCES:
+  AFHTTPSessionOperation:
+    :commit: e0ab1473ef17448b786549d59e3e155597af5313
+    :git: https://github.com/damarte/AFHTTPSessionOperation
+
+CHECKOUT OPTIONS:
+  AFHTTPSessionOperation:
+    :commit: e0ab1473ef17448b786549d59e3e155597af5313
+    :git: https://github.com/damarte/AFHTTPSessionOperation
+
+SPEC CHECKSUMS:
+  AFHTTPSessionOperation: 66cca8bb502e417e31bbff256b068855eced0f5d
+  AFNetworkActivityLogger: 121486778117d53b3ab1c61d264b88081d0c3eee
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  NSOperationQueue+CompletionBlock: 15e8ab9144ddf3f9c2147e64fee87895e0b286c4
+
+PODFILE CHECKSUM: f0d47b3e1e859a9075d0a38cda5521c66cc0407c
+
+COCOAPODS: 1.0.1

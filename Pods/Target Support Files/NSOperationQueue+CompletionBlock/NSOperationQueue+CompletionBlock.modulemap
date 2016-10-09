@@ -1,0 +1,6 @@
+framework module NSOperationQueue_CompletionBlock {
+  umbrella header "NSOperationQueue+CompletionBlock-umbrella.h"
+
+  export *
+  module * { export * }
+}
